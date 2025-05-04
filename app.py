@@ -1,7 +1,6 @@
 import tkinter as tk
 from tkinter import font
 from autocomplete_model import AddressAutocompleteModel
-
 from load_addresses import load_addresses_from_csv
 
 # Update the path to your actual CSV
